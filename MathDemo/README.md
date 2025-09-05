@@ -1,3 +1,4 @@
+![CI Pipeline](https://github.com/andersabjorn/MathDemo/workflows/CI%20Pipeline/badge.svg)
 # MathDemo - My First C# Math Operations Project
 
 This is a simple C# console application that demonstrates basic math operations using the Math class in .NET. It's my first project to showcase DevOps skills, including Git version control and comments in code.
