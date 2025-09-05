@@ -15,4 +15,4 @@ jobs:
     - name: Build
       run: dotnet build
     - name: Run the app
-      run: dotnet run --project MathDemo.csproj
+      run: dotnet run --project MathDemo/MathDemo.csproj
