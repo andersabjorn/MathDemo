@@ -16,5 +16,5 @@ jobs:
         dotnet-version: 9.0.304 
     - name: Build
       run: dotnet build
-    - name: Run
-      run: dotnet run
+    - name: Run the app
+  run: dotnet run --project MathDemo.csproj
